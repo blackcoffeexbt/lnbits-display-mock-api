@@ -5,6 +5,24 @@
     },
     "displayScreens": [
         {
+            "slug": "lnbits_balance",
+            "group": "lnbits",
+            "text": [
+                {
+                    "value": "Wallet Balance",
+                    "size": 40,
+                    "x": 10,
+                    "y": 30
+                },
+                {
+                    "value": "69,420 sats",
+                    "size": 20,
+                    "x": 10,
+                    "y": 90
+                }
+            ]
+        },
+        {
             "slug": "mempool_fees",
             "group": "mempool",
             "text": [
@@ -43,6 +61,24 @@
                     "size": 40,
                     "x": 10,
                     "y": 70
+                }
+            ]
+        },
+        {
+            "slug": "next_difficulty_adjustment_time",
+            "group": "mining",
+            "text": [
+                {
+                    "value": "Estiamted time of next difficulty adjustment",
+                    "size": 40,
+                    "x": 10,
+                    "y": 30
+                },
+                {
+                    "value": "27 September 2022 11:07am",
+                    "size": 20,
+                    "x": 10,
+                    "y": 90
                 }
             ]
         }
