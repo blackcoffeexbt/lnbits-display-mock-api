@@ -36,7 +36,7 @@
                     "value": "High priority",
                     "size": 20,
                     "x": 0,
-                    "y": 50
+                    "y": 70
                 },
                 {
                     "value": "50 sats/vbyte",
@@ -48,7 +48,7 @@
                     "value": "Medium priority",
                     "size": 20,
                     "x": 350,
-                    "y": 50
+                    "y": 70
                 },
                 {
                     "value": "20 sats/vbyte",
@@ -60,7 +60,7 @@
                     "value": "Low priority",
                     "size": 20,
                     "x": 700,
-                    "y": 50
+                    "y": 70
                 },
                 {
                     "value": "2 sats/vbyte",
