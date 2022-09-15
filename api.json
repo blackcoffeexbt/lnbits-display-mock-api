@@ -1,0 +1,73 @@
+{
+    "settings": {
+            "refreshTime": 300
+    },
+    "displayData": [
+        {
+            "uid": "node_status",
+            "group": "node",
+            "title": "Node is online?",
+            "titleFontSize": 22,
+            "titlePosX": 10,
+            "titlePosY": 10,
+            "value": true,
+            "valueFontSize": 40,
+            "valuePosX": 80,
+            "valuePosY": 30
+          },
+          {
+            "uid": "lnbits_wallet_balance",
+            "group": "lnbits",
+            "title": "My wallet balance",
+            "titleFontSize": 22,
+            "titlePosX": 10,
+            "titlePosY": 10,
+            "value": "69,420 sats",
+            "valueFontSize": 40,
+            "valuePosX": 80,
+            "valuePosY": 30
+          },
+          {
+            "uid": "rate_btc_gbp",
+            "group": "fiat",
+            "title": "BTC/GBP Exchange Rate",
+            "titleFontSize": 22,
+            "titlePosX": 10,
+            "titlePosY": 10,
+            "value": "£300,000",
+            "valueFontSize": 40,
+            "valuePosX": 80,
+            "valuePosY": 30
+          },
+          {
+            "uid": "mempool_fees_high_priority",
+            "group": "mempool",
+            "title": "Mempool Fees",
+            "titleFontSize": 22,
+            "titlePosX": 10,
+            "titlePosY": 10,
+            "items": [
+                {
+                    "title": "High priority",
+                    "titleFontSize": 22,
+                    "titlePosX": 10,
+                    "titlePosY": 10,
+                    "value": "20 sats/vbyte",
+                    "valueFontSize": 40,
+                    "valuePosX": 80,
+                    "valuePosY": 30
+                },
+                {
+                    "title": "Medium priority",
+                    "titleFontSize": 22,
+                    "titlePosX": 10,
+                    "titlePosY": 50,
+                    "value": "12 sats/vbyte",
+                    "valueFontSize": 40,
+                    "valuePosX": 80,
+                    "valuePosY": 30
+                }
+            ]
+          }
+    ]
+}
