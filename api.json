@@ -93,7 +93,7 @@
             "group": "mining",
             "text": [
                 {
-                    "value": "Estiamted time of next difficulty adjustment",
+                    "value": "Estimated time of next difficulty adjustment",
                     "size": 40,
                     "x": 10,
                     "y": 30
