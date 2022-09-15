@@ -5,26 +5,68 @@
     },
     "displayScreens": [
         {
+            "slug": "lnbits_balance",
+            "group": "lnbits",
+            "text": [
+                {
+                    "value": "Wallet Balance",
+                    "size": 20,
+                    "x": 10,
+                    "y": 30
+                },
+                {
+                    "value": "69,420 sats",
+                    "size": 40,
+                    "x": 10,
+                    "y": 90
+                }
+            ]
+        },
+        {
             "slug": "mempool_fees",
             "group": "mempool",
             "text": [
                 {
                     "value": "Mempool Fees",
                     "size": 20,
-                    "x": 10,
-                    "y": 10
+                    "x": 0,
+                    "y": 30
                 },
                 {
                     "value": "High priority",
                     "size": 20,
-                    "x": 10,
+                    "x": 0,
                     "y": 50
                 },
                 {
                     "value": "50 sats/vbyte",
-                    "size": 40,
-                    "x": 10,
-                    "y": 80
+                    "size": 20,
+                    "x": 0,
+                    "y": 150
+                },
+                {
+                    "value": "Medium priority",
+                    "size": 20,
+                    "x": 250,
+                    "y": 50
+                },
+                {
+                    "value": "20 sats/vbyte",
+                    "size": 20,
+                    "x": 250,
+                    "y": 150
+                },
+                {
+                    "value": "Low priority",
+                    "size": 20,
+                    "x": 400,
+                    "y": 50
+                },
+                {
+                    "value": "2 sats/vbyte",
+                    "size": 20,
+                    "x": 400,
+                    "y": 150
                 }
             ]
         },
@@ -36,13 +78,31 @@
                     "value": "Current block height",
                     "size": 20,
                     "x": 10,
-                    "y": 10
+                    "y": 30
                 },
                 {
                     "value": "420,420",
                     "size": 40,
                     "x": 10,
-                    "y": 50
+                    "y": 70
+                }
+            ]
+        },
+        {
+            "slug": "next_difficulty_adjustment_time",
+            "group": "mining",
+            "text": [
+                {
+                    "value": "Estimated time of next difficulty adjustment",
+                    "size": 20,
+                    "x": 10,
+                    "y": 30
+                },
+                {
+                    "value": "27 September 2022 11:07am",
+                    "size": 40,
+                    "x": 10,
+                    "y": 90
                 }
             ]
         }
