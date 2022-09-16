@@ -5,6 +5,18 @@
     },
     "displayScreens": [
         {
+            "slug": "fact_of_the_day",
+            "group": "lnbits",
+            "text": [
+                {
+                    "value": "Craig Wright is a fraud",
+                    "size": 40,
+                    "x": 30,
+                    "y": 260
+                }
+            ]
+        },
+        {
             "slug": "lnbits_balance",
             "group": "lnbits",
             "text": [
