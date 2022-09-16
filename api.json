@@ -41,19 +41,19 @@
                 {
                     "value": "Mempool Fees",
                     "size": 20,
-                    "x": 0,
+                    "x": 20,
                     "y": 30
                 },
                 {
                     "value": "High priority",
                     "size": 20,
-                    "x": 10,
+                    "x": 20,
                     "y": 100
                 },
                 {
                     "value": "50 sats/vbyte",
                     "size": 20,
-                    "x": 10,
+                    "x": 20,
                     "y": 150
                 },
                 {
