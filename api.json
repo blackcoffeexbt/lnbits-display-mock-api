@@ -52,7 +52,7 @@
                 },
                 {
                     "value": "50 sats/vbyte",
-                    "size": 40,
+                    "size": 20,
                     "x": 10,
                     "y": 150
                 },
@@ -64,7 +64,7 @@
                 },
                 {
                     "value": "20 sats/vbyte",
-                    "size": 40,
+                    "size": 20,
                     "x": 350,
                     "y": 150
                 },
@@ -76,7 +76,7 @@
                 },
                 {
                     "value": "2 sats/vbyte",
-                    "size": 40,
+                    "size": 20,
                     "x": 700,
                     "y": 150
                 }
