@@ -9,9 +9,48 @@
             "group": "lnbits",
             "text": [
                 {
-                    "value": "Craig Wright is a liar and a fraud",
+                    "value": "Craig Steven Wright is a liar and a fraud",
                     "size": 20,
-                    "x": 30,
+                    "x": 80,
+                    "y": 140
+                }
+            ]
+        },
+        
+        {
+            "slug": "fact_of_the_day",
+            "group": "lnbits",
+            "text": [
+                {
+                    "value": "Edward is excellent",
+                    "size": 20,
+                    "x": 80,
+                    "y": 140
+                }
+            ]
+        },
+        
+        {
+            "slug": "fact_of_the_day",
+            "group": "lnbits",
+            "text": [
+                {
+                    "value": "Wilfred is great",
+                    "size": 20,
+                    "x": 80,
+                    "y": 140
+                }
+            ]
+        },
+        
+        {
+            "slug": "fact_of_the_day",
+            "group": "lnbits",
+            "text": [
+                {
+                    "value": "Rose is lovely",
+                    "size": 20,
+                    "x": 80,
                     "y": 140
                 }
             ]
